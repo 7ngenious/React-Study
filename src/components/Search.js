@@ -15,7 +15,7 @@ function Search({ renderTopics, setRenderTopics, topics, onChangeMode }) {
   const onChangeSearch = e => {
     e.preventDefault();
     setSearch(e.target.value);
-  };
+  }; //doaofks
   return (
     <>
       <form onSubmit={e => onSearch(e)}>
