@@ -1,4 +1,4 @@
-@import "../reset.css";
+@import '../reset.css';
 
 header {
   margin-top: 0px;
@@ -62,4 +62,5 @@ table td {
 }
 button {
   display: flex;
+  box-sizing: b;
 }
